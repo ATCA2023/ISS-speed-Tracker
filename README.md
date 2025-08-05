@@ -3,6 +3,7 @@
 This repository hosts a Python application designed to run on a Raspberry Pi aboard the International Space Station (ISS). It autonomously captures imagery and on‑board sensor data to compute a precise estimate of the station’s ground‑track speed.
 
 The code was already ran by the Vsigma team in the 2024 Astro Pi competition. Physics logic, core algorithms and coding were done by Vlad Tiberiu.
+
 ---
 
 ## Features
