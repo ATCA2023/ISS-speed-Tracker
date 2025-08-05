@@ -85,7 +85,6 @@ The script will run for a fixed duration (\~560 s), periodically capturing pai
    * Convert pixel displacement to meters using a known GSD factor.
    * Compute the elapsed time squared.
    * Apply the constant‑acceleration kinematics formula:
-     v = √[ (d² / t²) + (t² / 4) * (ax² + ay² + az²) ]
 
      $$
 v = \sqrt{ \frac{d^2}{t^2} + \frac{t^2}{4} \left(a_x^2 + a_y^2 + a_z^2\right) }
